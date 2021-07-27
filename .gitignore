@@ -3,3 +3,5 @@
 ################################################################################
 
 /helloworld/.vs
+/helloworld/src/helloworld/bin/Debug/netcoreapp1.0
+/helloworld/src/helloworld/obj/Debug/netcoreapp1.0
